@@ -1,5 +1,5 @@
 const API_URL = "http://192.168.1.66:8080/api/logs"; 
-const API_TOKEN = "1|rE39T75NzouA4yBwoQciQMSipYX9YDbSwY6aMLwTc2d3facb"; 
+const API_TOKEN = "1|W5o9sgTGA3SpT2vSgwApUE91mm6m9Pol1eSQzgEu6dcd3de4"; 
 const EMPLOYEE_ID = "EMP-CHROME-01"; 
 
 // 1. Monitoreo de Navegación
